@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\PJ1\stm8LedEffect.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\stm8s_7LED_IC3231.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

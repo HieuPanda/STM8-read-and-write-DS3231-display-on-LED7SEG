@@ -1,0 +1,3 @@
+led7Seg.pbi: F:\STM8\STM8_LED7_3231\lib\led7Seg\led7Seg.c \
+  F:\STM8\STM8_LED7_3231\lib\led7Seg/led7Seg.h \
+  F:\STM8\STM8_LED7_3231\lib\GPIO\GPIO.h

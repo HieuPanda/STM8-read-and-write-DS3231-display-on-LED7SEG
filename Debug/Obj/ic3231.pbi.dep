@@ -1,0 +1,6 @@
+ic3231.pbi: F:\STM8\STM8_LED7_3231\lib\IC_3231\ic3231.c \
+  F:\STM8\STM8_LED7_3231\lib\IC_3231/ic3231.h \
+  F:\STM8\STM8_LED7_3231\lib\i2c_soft\i2c_soft.h \
+  F:\STM8\STM8_LED7_3231\lib\i2c_soft\cfg\i2c_soft_cfg.h \
+  F:\STM8\STM8_LED7_3231\lib\delay\delay.h \
+  F:\STM8\STM8_LED7_3231\lib\GPIO\GPIO.h
